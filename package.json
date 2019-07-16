@@ -1,0 +1,14 @@
+{
+  "name": "react-native-payments-bad-podspec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-payments": "^0.7.1"
+  }
+}
